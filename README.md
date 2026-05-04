@@ -114,7 +114,15 @@
 ---
 
 <div align="center">
-  <img src="https://ghchart.vercel.app/00C853/KrishnnaYadav5" alt="GitHub Contribution Grid" />
+ 
+  <img src="https://ghchart.rshah.org/6C63FF/KrishnnaYadav5" alt="Krishna Yadav's GitHub Contribution Chart" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <h4>Animated Contribution Snake</h4>
+  <img src="https://raw.githubusercontent.com/KrishnnaYadav5/KrishnnaYadav5/output/snake.svg" alt="Snake animation" />
 </div>
 ---
 
