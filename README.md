@@ -113,17 +113,7 @@
 
 ---
 
-<div align="center">
- 
-  <img src="https://ghchart.rshah.org/00C853/KrishnnaYadav5" alt="Krishna Yadav's GitHub Contribution Chart" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <h4>Animated Contribution Snake</h4>
-  <img src="https://raw.githubusercontent.com/KrishnnaYadav5/KrishnnaYadav5/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnnaYadav5&theme=github-compact&color=00C853" />
 ---
 
 <div>
