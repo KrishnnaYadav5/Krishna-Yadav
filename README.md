@@ -114,7 +114,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrishnnaYadav5&theme=github-dark&ring=00C853&fire=00C853&currStreakLabel=00C853" />
+  <img src="https://ghchart.vercel.app/00C853/KrishnnaYadav5" alt="GitHub Contribution Grid" />
 </div>
 
 ---
