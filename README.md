@@ -114,9 +114,8 @@
 ---
 
 <div align="center">
-  <img src="https://ghchart.vercel.app/00C853/KrishnnaYadav5" alt="GitHub Contribution Grid" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrishnnaYadav5&theme=github_dark" />
 </div>
-
 ---
 
 <div>
