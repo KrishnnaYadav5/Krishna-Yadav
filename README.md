@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KrishnnaYadav5.KrishnnaYadav5&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KrishnnaYadav5.KrishnnaYadav5" />
 </div>
 
 ###
