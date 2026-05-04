@@ -137,8 +137,7 @@
 ## 📈 GitHub Contributions
 
 <div align="center">
-  <h4>🟩 Contribution Calendar (Green Boxes)</h4>
-  <img src="https://ghchart.rshah.org/6C63FF/KrishnnaYadav5" alt="Krishna Yadav's GitHub Contribution Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/00C853/KrishnnaYadav5" alt="Krishna Yadav's GitHub Contribution Chart" width="100%" />
 </div>
 
 <br>
@@ -151,7 +150,7 @@
 ---
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=100&section=footer&animation=fadeIn"/>
 </div>
 
 <p align="center">
