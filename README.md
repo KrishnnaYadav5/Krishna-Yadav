@@ -115,7 +115,7 @@
 
 <div align="center">
  
-  <img src="https://ghchart.rshah.org/6C63FF/KrishnnaYadav5" alt="Krishna Yadav's GitHub Contribution Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/00C853/KrishnnaYadav5" alt="Krishna Yadav's GitHub Contribution Chart" width="100%" />
 </div>
 
 <br>
