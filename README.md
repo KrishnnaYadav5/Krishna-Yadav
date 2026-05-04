@@ -116,14 +116,7 @@
 ## 📈 GitHub Contributions
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00C853/KrishnnaYadav5" alt="Krishna Yadav's GitHub Contribution Chart" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <h4>Animated Contribution Snake</h4>
-  <img src="https://raw.githubusercontent.com/KrishnnaYadav5/KrishnnaYadav5/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-contribution-grid-snake.vercel.app/?username=KrishnnaYadav5&color_snake=00C853&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127" />
 </div>
 
 ---
