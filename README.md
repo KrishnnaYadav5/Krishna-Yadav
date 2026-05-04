@@ -43,30 +43,8 @@
 ⚡  Fun Fact: I went from B.Com to Full Stack Dev — Commerce to Code!
 ```
 
----
 
-## 🎓 Education
 
-<table width="100%">
-  <tr>
-    <td width="60px" align="center">🎓</td>
-    <td>
-      <strong>Masters in Computer Applications (MCA)</strong><br/>
-      University of Mumbai — Navinchandra Mehta Institute of Technology & Development (NMITD)<br/>
-      <img src="https://img.shields.io/badge/2024–2026-Pursuing-6C63FF?style=flat-square"/>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="60px" align="center">🏫</td>
-    <td>
-      <strong>Bachelors of Commerce (B.Com)</strong><br/>
-      University of Mumbai — Tolani College of Commerce (Autonomous), Andheri East, India<br/>
-      <img src="https://img.shields.io/badge/2020–2023-Completed-4CAF50?style=flat-square"/>
-      <img src="https://img.shields.io/badge/CGPA-7.34%2F10-FF6B6B?style=flat-square"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
