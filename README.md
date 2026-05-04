@@ -161,3 +161,28 @@
 <p align="center">
   <em>⭐ If you find my work helpful, consider starring my repositories! Let's connect and build something amazing. 🚀</em>
 </p>
+
+
+## 📈 GitHub Contributions
+
+<div align="center">
+  <h4>Contribution Activity Graph</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnnaYadav5&theme=tokyonight&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <h4>Animated Contribution Snake</h4>
+  <img src="https://raw.githubusercontent.com/KrishnnaYadav5/KrishnnaYadav5/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&animation=fadeIn"/>
+</div>
+
+<p align="center">
+  <em>⭐ If you find my work helpful, consider starring my repositories! Let's connect and build something amazing. 🚀</em>
+</p>
