@@ -113,10 +113,8 @@
 
 ---
 
-## 📈 GitHub Contributions
-
 <div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/?username=KrishnnaYadav5&color_snake=00C853&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrishnnaYadav5&theme=github-dark&ring=00C853&fire=00C853&currStreakLabel=00C853" />
 </div>
 
 ---
