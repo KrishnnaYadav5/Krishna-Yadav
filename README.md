@@ -113,16 +113,20 @@
 
 ---
 
-<div align="center">
- 
-  <img src="https://ghchart.rshah.org/00C853/KrishnnaYadav5" alt="Krishna Yadav's GitHub Contribution Chart" width="100%" />
-</div>
+<div align="center" style="position: relative; display: inline-block;">
+  <img src="https://ghchart.rshah.org/00C853/KrishnnaYadav5"
+       alt="Krishna Yadav's GitHub Contribution Chart"
+       width="100%" />
 
-<br>
-
-<div align="center">
-  <h4>Animated Contribution Snake</h4>
-  <img src="https://raw.githubusercontent.com/KrishnnaYadav5/KrishnnaYadav5/output/snake.svg" alt="Snake animation" />
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.5);
+    pointer-events: none;">
+  </div>
 </div>
 ---
 
